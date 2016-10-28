@@ -1,5 +1,4 @@
-git.exe
-  <<!DOCTYPE html>
+
 <html>
 <head>
     <title></title>
@@ -7,6 +6,7 @@ git.exe
 <body>
 
 <p>This is my first paragraph.</p>
-<a href="http://www.chaonicainiaodediyige.com>This is a link</a>
+
 </body>
+<a href="http://www.chaonicainiaodediyige.com>This is a link</a>
 </html>
